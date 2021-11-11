@@ -1,0 +1,36 @@
+{
+  "name": "launchbox",
+  "version": "1.0.0",
+  "description": "Quick start for express projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "launchbox": "index.js"
+  },
+  "keywords": [
+    "express",
+    "template",
+    "launch",
+    "quickstart"
+  ],
+  "author": "titancoder",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cassandra-driver": "^4.6.3",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0",
+    "figures": "^3.2.0",
+    "helmet": "^4.6.0",
+    "log-symbols": "^5.0.0",
+    "moment": "^2.29.1",
+    "ora": "^5.4.1"
+  }
+}
