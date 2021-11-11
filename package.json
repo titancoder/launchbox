@@ -9,6 +9,10 @@
   "bin": {
     "launchbox": "index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/titancoder/launchbox.git"
+  },
   "keywords": [
     "express",
     "template",
