@@ -1,6 +1,6 @@
 # launchbox
 
-> Easily setup a express project structure and start the server in seconds.
+> Easily setup an express project structure and start the server in seconds.
 
 ## Installation
 
